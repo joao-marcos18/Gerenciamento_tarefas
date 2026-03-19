@@ -1,4 +1,4 @@
 package com.example.exercicio10.services;
 
-public class TarefasServices {
+public class TarefasService {
 }
